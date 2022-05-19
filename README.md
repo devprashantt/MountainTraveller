@@ -1,1 +1,1 @@
-<img src = "screenshots/screenshots (1).jpg>
+<img src = "screenshots/Screenshots (1).png>
